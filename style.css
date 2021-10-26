@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+    font-size: 40px;
+}
+#body_background{
+    background-image: url(bg1.jpg);
+    background-position: cover;
+    background-size: 20px;
+}
+#first_canvas{
+    border-width: 10px;
+    background-color: cornsilk;
+    border-style:ridge;
+
+}
+span{
+    font-size: 20px;
+}
